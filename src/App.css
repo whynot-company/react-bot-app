@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.App img,
+.App button,
+.App h1 {
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+}
